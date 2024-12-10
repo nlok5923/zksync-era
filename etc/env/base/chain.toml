@@ -90,9 +90,9 @@ fee_model_version = "V2"
 validation_computational_gas_limit = 300000
 save_call_traces = true
 
-bootloader_hash = "0x0100087b232b86e32e87f8acfb75c98a50363eb7ccbe504aae3f7b7e8dd94dbf"
-default_aa_hash = "0x0100050989d91484a0d994fab1527c01f1f5fa39c9993945ae943874c4667e7d"
-evm_emulator_hash = "0x01000cb5ab96098493fa599effb19ce9c6d8db6e9bfe34004ce3ff35e2225a75"
+bootloader_hash = "0x0100087b7bb1d234655ca6c31e3ba8cb383c13f9738b1de7e5e2b39b34648677"
+default_aa_hash = "0x0100050bcb0eb0f55ec0821967b509b2ae60fa52ff94f0f934b4de464e2f3a5d"
+evm_emulator_hash = "0x01000bef3afffa6dcca82a514f5f388101dd3498e9117be2073975d8ae791970"
 
 protective_reads_persistence_enabled = false
 
